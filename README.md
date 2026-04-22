@@ -46,9 +46,9 @@ When I'm not cleaning datasets or building dashboards, I'm exploring. I love tra
 
 ## GitHub Stats
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarutla0227&show_icons=true&theme=default)
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarutla0227&show_icons=true&theme=nord)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarutla0227&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarutla0227&layout=compact&theme=dracula)
 <!--
 **Sarutla0227/Sarutla0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
