@@ -41,6 +41,14 @@ When I'm not cleaning datasets or building dashboards, I'm exploring. I love tra
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shreya-arutla-361b601a3
 - 📧 Email: Shreyaarutla02@gmail.com
+
+
+
+## GitHub Stats
+
+![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 <!--
 **Sarutla0227/Sarutla0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
