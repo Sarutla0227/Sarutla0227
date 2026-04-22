@@ -1,70 +1,46 @@
-## Hi there 👋
-
 # Hi, I'm Shreya Arutla
 
-Data Analyst with a Master's in Computer Science from Florida Atlantic University.
-I work with SQL, Python, Power BI, and Tableau to clean, analyze, and visualize data — turning raw numbers into decisions that matter.
+Data Analyst | MS Computer Science @ Florida Atlantic University | Open to Opportunities
+
+I turn complex, messy datasets into clear business insights. With hands-on experience in SQL, Python, and Power BI, I build dashboards and analytical solutions that help businesses make faster, smarter decisions.
 
 ---
 
-## About Me
+## What I'm Working On
 
-- Master of Science in Computer Science — Florida Atlantic University (2024–2025)
-- Focused on data analysis, dashboard development, and business intelligence
-- Based in Delray Beach, FL | Open to Data Analyst opportunities
-
----
-
-## Technical Skills
-
-**Languages & Tools**
-SQL | Python | Excel
-
-**Libraries**
-Pandas | NumPy | Matplotlib
-
-**Visualization**
-Power BI | Tableau
-
-**Databases**
-PostgreSQL | MySQL
-
-**Environment**
-GitHub | VS Code | Jupyter Notebook
+- **E-commerce Analytics:** Analyzing 99K+ orders and $15.8M in revenue using SQL and Power BI to uncover sales trends and delivery performance.
+- **Customer Churn Analysis:** Building real-time dashboards to monitor churn rate and identify high-risk customer segments using Python and Power BI.
+- **Sales Forecasting:** Developing forecasting models to predict future sales performance and support regional business strategy.
 
 ---
 
-## Featured Projects
+## Technical Toolkit
 
-### E-commerce Sales Analytics Dashboard
-Analyzed 99K+ orders and $15.8M in revenue to evaluate sales performance.
-Built an interactive Power BI dashboard tracking Total Revenue, Average Order Value, and Late Delivery Rate.
-
-**Tools:** SQL | PostgreSQL | Power BI | Excel
-
----
-
-### Customer Churn Analysis
-Cleaned and processed raw customer data to identify high-risk customers and key churn drivers.
-Built a Power BI dashboard to monitor churn rate and customer behavior trends in real time.
-
-**Tools:** Python | Pandas | SQL | Power BI | Excel
+- **Languages:** Python | SQL | Excel
+- **Libraries:** Pandas | NumPy | Matplotlib
+- **Visualization:** Power BI | Tableau
+- **Databases:** PostgreSQL | MySQL
+- **Environment:** GitHub | VS Code | Jupyter Notebook
 
 ---
 
-### Sales Forecasting & Business Performance Analysis
-Analyzed historical sales data to identify trends and seasonal patterns.
-Built a forecasting model to predict future sales and created dashboards to present regional and category insights.
+## Academic Highlights
 
-**Tools:** Python | Pandas | Excel | Matplotlib | Power BI
+- **Education:** MS in Computer Science, Florida Atlantic University (Jan 2024 – Dec 2025)
+- **Focus Areas:** Data Analysis | Dashboard Development | KPI Reporting | Business Intelligence
+
+---
+
+## Beyond the Data
+
+When I'm not cleaning datasets or building dashboards, I'm exploring. I love traveling and experiencing new places — always looking for the next adventure. Ask me about my favorite spots!
 
 ---
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/shreya-arutla-361b601a3  
-Email: Shreyaarutla02@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/shreya-arutla-361b601a3
+- Email: Shreyaarutla02@gmail.com
 <!--
 **Sarutla0227/Sarutla0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
